@@ -8,4 +8,4 @@ I'm Chankyu Kim. A deep learner from South Korea.
 - Previously co-founded [minding](https://minding.today), a mental-health tech startup.
 - Senior at business school of Seoul National University.
 - Please reach me: <jessekim.ck.94@gmail.com>
-- Come over my blog: [blog.jesse.kim](https://blog.jesse.kim)
+- Come over my blog: [iam.jesse.kim](https://iam.jesse.kim)
