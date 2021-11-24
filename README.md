@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I'm Chankyu Kim. A deep learner from South Korea.
+I'm Chankyu Kim.
+Currently working with [mAy-I](https://may-i.io) as product owner & deep learning engineer.
 
-- Dreaming of changing the world with AI.
-- Working with [mAy-I](https://may-i.io) team as a researcher.
-- Interested in deep learning & startup.
-- Previously co-founded [minding](https://minding.today), a mental-health tech startup.
-- Senior at business school of Seoul National University.
-- Please reach me: <jessekim.ck.94@gmail.com>
-- Come over my blog: [iam.jesse.kim](https://iam.jesse.kim)
+Visit my [blog](https://iam.jesse.kim)!
